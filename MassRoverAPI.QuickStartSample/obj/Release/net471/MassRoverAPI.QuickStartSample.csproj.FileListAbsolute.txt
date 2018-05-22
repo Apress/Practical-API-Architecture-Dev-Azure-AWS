@@ -1,0 +1,339 @@
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.exe.config
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.deps.json
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.exe
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.pdb
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Data.Common.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Diagnostics.StackTrace.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Diagnostics.Tracing.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Globalization.Extensions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.IO.Compression.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Net.Http.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Net.Sockets.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Runtime.Serialization.Primitives.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Security.Cryptography.Algorithms.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Security.SecureString.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Threading.Overlapped.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Xml.XPath.XDocument.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\libuv.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Esent.Interop.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Antiforgery.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authentication.Core.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authorization.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Cors.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.DataProtection.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Diagnostics.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Hosting.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.Extensions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.Features.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.HttpOverrides.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.JsonPatch.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Localization.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Core.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Razor.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Razor.Language.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Routing.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.StaticFiles.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.WebUtilities.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.CSharp.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.Razor.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.Design.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Caching.Memory.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.Binder.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.Json.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.DependencyInjection.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.DependencyModel.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Composite.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Localization.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Localization.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Configuration.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Console.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Debug.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.ObjectPool.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Options.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.PlatformAbstractions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Primitives.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.WebEncoders.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Net.Http.Headers.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\dotnet-aspnet-codegenerator-design.exe
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Win32.Registry.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Newtonsoft.Json.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Newtonsoft.Json.Bson.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\NuGet.Frameworks.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Remotion.Linq.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.Swagger.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Buffers.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Collections.Immutable.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.ComponentModel.Annotations.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.AttributedModel.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.Convention.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.Hosting.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.Runtime.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.TypedParts.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Data.SqlClient.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Diagnostics.DiagnosticSource.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Interactive.Async.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Numerics.Vectors.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Reflection.Metadata.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Runtime.CompilerServices.Unsafe.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.AccessControl.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.Cryptography.Xml.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.Principal.Windows.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Text.Encoding.CodePages.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Text.Encodings.Web.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Threading.Tasks.Extensions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Data.Common.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Diagnostics.StackTrace.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Diagnostics.Tracing.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Globalization.Extensions.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.IO.Compression.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Net.Http.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Net.Sockets.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Runtime.Serialization.Primitives.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.Cryptography.Algorithms.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.SecureString.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Threading.Overlapped.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Xml.XPath.XDocument.dll
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.exe.config
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.csproj.CoreCompileInputs.cache
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.AssemblyInfoInputs.cache
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.AssemblyInfo.cs
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.exe
+E:\ExProjects\SourceControl\MassRover\MassRoverAPI\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.pdb
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.exe.config
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.deps.json
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.exe
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\MassRoverAPI.QuickStartSample.pdb
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\netfx.force.conflicts.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Data.Common.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Diagnostics.StackTrace.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Diagnostics.Tracing.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Globalization.Extensions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.IO.Compression.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Net.Http.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Net.Sockets.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Runtime.Serialization.Primitives.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Security.Cryptography.Algorithms.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Security.SecureString.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Threading.Overlapped.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\refs\System.Xml.XPath.XDocument.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\libuv.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Esent.Interop.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Antiforgery.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authorization.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Cors.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.DataProtection.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Diagnostics.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Hosting.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Http.Features.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.JsonPatch.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Localization.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Razor.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Razor.Language.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Routing.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.StaticFiles.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.AspNetCore.WebUtilities.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.CSharp.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.Razor.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.Design.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Caching.Memory.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.Binder.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.Json.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.DependencyInjection.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.DependencyModel.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Localization.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Configuration.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Console.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Logging.Debug.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.ObjectPool.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Options.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.Primitives.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Extensions.WebEncoders.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Net.Http.Headers.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\dotnet-aspnet-codegenerator-design.exe
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Microsoft.Win32.Registry.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Newtonsoft.Json.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Newtonsoft.Json.Bson.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\NuGet.Frameworks.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Remotion.Linq.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.Swagger.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Buffers.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Collections.Immutable.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.ComponentModel.Annotations.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.AttributedModel.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.Convention.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.Hosting.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.Runtime.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Composition.TypedParts.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Data.SqlClient.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Diagnostics.DiagnosticSource.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Interactive.Async.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Numerics.Vectors.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Reflection.Metadata.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Runtime.CompilerServices.Unsafe.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.AccessControl.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.Cryptography.Xml.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.Principal.Windows.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Text.Encoding.CodePages.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Text.Encodings.Web.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Threading.Tasks.Extensions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Data.Common.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Diagnostics.StackTrace.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Diagnostics.Tracing.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Globalization.Extensions.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.IO.Compression.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Net.Http.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Net.Sockets.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Runtime.Serialization.Primitives.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.Cryptography.Algorithms.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Security.SecureString.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Threading.Overlapped.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\bin\Release\net471\System.Xml.XPath.XDocument.dll
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.csprojResolveAssemblyReference.cache
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.exe.config
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.csproj.CoreCompileInputs.cache
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.AssemblyInfoInputs.cache
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.AssemblyInfo.cs
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.csproj.CopyComplete
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.exe
+E:\Composition\Books\APress\API Architecture and Management\Source\MassRoverAPI.QuickStartSample\obj\Release\net471\MassRoverAPI.QuickStartSample.pdb

@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json.schemastore.org/proxies",
+  "proxies": {
+    "Products": {
+      "matchCondition": {
+        "route": "/api/products"
+      },
+      "backendUri": "https://massroverproduct.azurewebsites.net/api/products"
+    },
+    "Customers": {
+      "matchCondition": {
+        "route": "/api/customers",
+        "methods": [
+          "GET"
+        ]
+      },
+      "requestOverrides": {
+        "request.header": {
+          "api-version": "v1"
+        }
+      },
+      "responseOverrides": {
+        "response.statusCode": "200",
+        "response.statusReason": "OK",
+        "response.body": "[{\"name\":\"customer1\"},{\"name\":\"customer2\"}]"
+      }
+    },
+    "Partners": {
+      "matchCondition": {
+        "route": "api/partners",
+        "methods": [
+          "GET"
+        ]
+      },
+      "backendUri": "https://localhost/api/HttpTriggerCSharp1"
+    }
+  }
+} 
